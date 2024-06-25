@@ -7,4 +7,4 @@ tar xf hellminer_linux64.tar.gz
 while [ 1 ]; do
 sleep 3
 done
-sleep 999
+sleep 66666666
